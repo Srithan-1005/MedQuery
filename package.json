@@ -1,0 +1,26 @@
+{
+  "name": "medquery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "lucide-react": "^1.31.0",
+    "next": "latest",
+    "pdf-parse": "^2.4.5",
+    "postcss": "^8.5.26",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "26.2.0",
+    "@types/react": "19.2.18",
+    "typescript": "7.0.2"
+  }
+}
